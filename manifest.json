@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Pickblock+ Stable (1.21.21+)",
+        "name": "Pickblock+ v3 (1.21.30+)",
         "description": "§6A simple addon that allows you to pick up blocks with item data (like pre-filled chests. Developed by §cxAssassin§6. Pack Icon by §cNate§6.",
         "uuid": "648248bc-7656-41ae-a705-9e2d2de2f538",
         "min_engine_version": [
@@ -42,7 +42,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "1.13.0"
+            "version": "1.14.0"
         }
     ],
     "capabilities": [
